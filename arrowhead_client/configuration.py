@@ -1,5 +1,5 @@
 from arrowhead_client.system import ArrowheadSystem
-_default_address = '127.0.0.1'
+_default_address = '127.0.0.1'      # IP to where the Arrowhead core systems are running
 
 default_config = {
     'service_registry':
